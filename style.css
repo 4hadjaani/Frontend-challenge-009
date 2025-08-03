@@ -10,7 +10,9 @@
                         grid-template-row: 5fr; 
                         color: white; 
                         padding: 10px ;
-                   max-width : 375px;} 
+                   max-width : 375px;
+                       gap:20px;
+                        margin : 10px ;
            
 
        
@@ -91,4 +93,5 @@ background-color :  white ;
               
 
 }              
+
         
